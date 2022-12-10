@@ -5,5 +5,7 @@ Orange
 Blue
 Red
 Green
+Unicorn
 Yellow
 These are the colers of the rainbow
+And the unicorn.
